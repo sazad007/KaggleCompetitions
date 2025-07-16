@@ -4,7 +4,7 @@
   <tr>
     <td><b>Set no.</b></td>
     <td><b>Name</b></td>
-    <td><b>Accuracy score</b></td>
+    <td><b>Score</b></td>
     <td><b>Scoring base</b></td>
     <td><b>Competition link</b></td>
   </tr>
