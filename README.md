@@ -6,6 +6,7 @@
     <td><b>Name</b></td>
     <td><b>Score</b></td>
     <td><b>Scoring base</b></td>
+    <td><b>Model Used</b></td>
     <td><b>Competition link</b></td>
   </tr>
   <tr>
@@ -13,6 +14,7 @@
     <td>Titanic - Machine Learning from Disaster</td>
     <td>0.78708</td>
     <td>Accuracy score</td>
+    <td>SVC</td>
     <td><a href="https://www.kaggle.com/competitions/titanic/" target="_blank">Kaggle link >></a></td>
   </tr>
   <tr>
@@ -20,6 +22,7 @@
     <td>House Prices - Advanced Regression Techniques</td>
     <td>0.14602</td>
     <td>Mean Square Error</td>
+    <td>RandomForest</td>
     <td><a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/" target="_blank">Kaggle link >></a></td>
   </tr>
   <tr>
@@ -27,6 +30,7 @@
     <td>Predict the Introverts from the Extroverts</td>
     <td>0.973279</td>
     <td>Accuracy Score</td>
+    <td>LogisticRegression</td>
     <td><a href="https://www.kaggle.com/competitions/playground-series-s5e7/" target="_blank">Kaggle link >></a></td>
   </tr>
   <tr>
@@ -34,6 +38,7 @@
     <td>Natural Language Processing with Disaster Tweets</td>
     <td>0.80508</td>
     <td>Accuracy Score</td>
+    <td>CountVectorizer/SVC</td>
     <td><a href="https://www.kaggle.com/competitions/nlp-getting-started/" target="_blank">Kaggle link >></a></td>
   </tr>
   <tr>
@@ -41,6 +46,15 @@
     <td>Bag of Words Meets Bags of Popcorn</td>
     <td>0.84272</td>
     <td>Accuracy Score</td>
+    <td>word2vec/SVC</td>
     <td><a href="https://www.kaggle.com/competitions/word2vec-nlp-tutorial/" target="_blank">Kaggle link >></a></td>
+  </tr>
+  <tr>
+    <td>06.</td>
+    <td>Prediction interval competition II: House price</td>
+    <td>378847.59</td>
+    <td>Winkler Interval score</td>
+    <td>XGBRegressor</td>
+    <td><a href="https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/leaderboard" target="_blank">Kaggle link >></a></td>
   </tr>
 </table>
