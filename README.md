@@ -52,7 +52,7 @@
   <tr>
     <td>06.</td>
     <td>Prediction interval competition II: House price</td>
-    <td>378847.59</td>
+    <td>371519.03</td>
     <td>Winkler Interval score</td>
     <td>XGBRegressor</td>
     <td><a href="https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/leaderboard" target="_blank">Kaggle link >></a></td>
