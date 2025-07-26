@@ -57,4 +57,12 @@
     <td>XGBRegressor</td>
     <td><a href="https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/leaderboard" target="_blank">Kaggle link >></a></td>
   </tr>
+  <tr>
+    <td>07.</td>
+    <td>Spam Email Classifier</td>
+    <td>98.83</td>
+    <td>Accuracy Score</td>
+    <td>SVC</td>
+    <td><a href="https://www.kaggle.com/datasets/abdallahwagih/spam-emails" target="_blank">Kaggle link >></a></td>
+  </tr>
 </table>
