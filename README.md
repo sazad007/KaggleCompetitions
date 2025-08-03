@@ -65,4 +65,12 @@
     <td>SVC</td>
     <td><a href="https://www.kaggle.com/datasets/abdallahwagih/spam-emails" target="_blank">Kaggle link >></a></td>
   </tr>
+  <tr>
+    <td>08.</td>
+    <td>Binary Classification with a Bank Dataset</td>
+    <td>96.92</td>
+    <td>Accuracy Score</td>
+    <td>XGBClassifier</td>
+    <td><a href="https://www.kaggle.com/competitions/playground-series-s5e8/" target="_blank">Kaggle link >></a></td>
+  </tr>
 </table>
