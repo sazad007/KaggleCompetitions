@@ -78,7 +78,7 @@
     <td>Predicting Road Accident Risk</td>
     <td>0.05566</td>
     <td>Mean Squared Error</td>
-    <td>XGBRegressor</td>
+    <td>CatBoostRegressor</td>
     <td><a href="https://www.kaggle.com/competitions/playground-series-s5e10/" target="_blank">Kaggle link >></a></td>
   </tr>
 </table>
