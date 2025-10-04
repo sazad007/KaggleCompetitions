@@ -73,4 +73,12 @@
     <td>XGBClassifier</td>
     <td><a href="https://www.kaggle.com/competitions/playground-series-s5e8/" target="_blank">Kaggle link >></a></td>
   </tr>
+  <tr>
+    <td>09.</td>
+    <td>Predicting Road Accident Risk</td>
+    <td>0.05566</td>
+    <td>Mean Squared Error</td>
+    <td>XGBRegressor</td>
+    <td><a href="https://www.kaggle.com/competitions/playground-series-s5e10/" target="_blank">Kaggle link >></a></td>
+  </tr>
 </table>
